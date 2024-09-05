@@ -1,0 +1,12 @@
+langgraph
+langchain
+langchain_huggingface
+langchain_community
+langchain-experimental
+python-dotenv
+torch
+torchvision
+torchaudio
+cohere
+ipython
+langchain-cohere
